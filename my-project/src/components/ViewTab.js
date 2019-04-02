@@ -35,7 +35,7 @@ const ViewTab = ({activeTab, onTabChange}) => (
                     color={'#007bff'}
                     icon='ios-pie'
                 />
-                图标模式
+                图表模式
             </a>
         </li>
     </ul>
